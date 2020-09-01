@@ -9,5 +9,6 @@ I'm looking for a Senior Software Engineer with experience in JS.
 And feel free to reach out to me to discuss :
 
 - Sports (triathlon, bike, swim, run and Yoga 🧘‍♂️ )
+- Music (piano and drum)
 - OpenSource
 - Saas and Tech

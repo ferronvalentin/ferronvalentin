@@ -2,12 +2,12 @@
 
 I'm looking for Senior Software Engineer with experience in JS.
 
-🏡 Remote friendly / full time
+🏡  Remote friendly / full time
 
-📫 How to reach me : valentinferron.pro@gmail.com
+📫  How to reach me : valentinferron.pro@gmail.com
 
-And feel free to reach out to me to discuss:
+And feel free to reach out to me to discuss :
 
-- Sports (triathlon, bike, swim, run and Yoga 🧘‍♂️)
+- Sports (triathlon, bike, swim, run and Yoga 🧘‍♂️ )
 - OpenSource
 - Saas and Tech

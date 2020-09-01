@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm looking for Senior Software Engineer with experience in JS.
+I'm looking for a Senior Software Engineer with experience in JS.
 
 🏡  Remote friendly / full time
 
